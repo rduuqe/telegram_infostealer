@@ -1,3 +1,3 @@
 |Telegram|Status|Name|
 | ------ | ------ | ------ |
-|https://t.me/+8DxOrHQdrzw1ZjUy|ONLINE| GODELESS CLOUD Botnet Logs|
+|https://t.me/prueba_infostealear_securiry|ONLINE| GODELESS CLOUD Botnet Logs|
